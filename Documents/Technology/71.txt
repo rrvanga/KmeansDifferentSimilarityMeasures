@@ -1,0 +1,24 @@
+
+
+A bug in the iPhone's date settings could permanently crash your phone.
+Your iPhone really hates the date January 1, 1970. It hates it so much that it will permanently crash if you change your iPhone's time settings to that date.
+
+It's not totally clear why the crash is happening. It's not at all obvious why anyone even bothered trying to set an iPhone's clock back 46 years.
+
+But we can make a pretty educated guess.
+
+January 1, 1970 is the earliest date you can set your iPhone to. If you turn your date and time settings to manual (please don't do this), and scroll the calendar back as far as you can go (seriously, don't do this), you can only go as far back as January 1, 1970.
+
+That's because Unix time began at midnight GMT on January 1, 1970. Unix time has been counting every second since then. Many gadgets, including the iPhone, use Unix time as the basis for their clocks.
+
+Now, why would scrolling all the way back to January 1, 1970 (00:00:00 in Unix time) turn your iPhone into a brick? If your time zone isn't GMT, your iPhone might think you're in a time before January 1, 1970 -- or before zero. Though Unix time can be negative, it's possible that something about that makes your iPhone go haywire.
+
+Related: Those new USB-C cords can fry your laptop
+
+There are several videos of people demonstrating what happens when they set their clocks back to January 1, 1970. (Again, we're not sure why they're doing this, and we don't recommend it).
+
+In the videos, the iPhone works immediately after the date is set all the way back. But powering off the phone and then on again results in a perpetual greeting screen, with the Apple logo just staring back at you for the rest of time.
+
+The bug first appeared on a Reddit forum on Thursday. Apple (AAPL, Tech30) did not respond to a request for comment on whether the company plans to address the issue.
+
+Meanwhile, just stay in the present. It's more zen that way ... and better for your iPhone.

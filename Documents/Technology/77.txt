@@ -1,0 +1,13 @@
+Is your iPhone lying about how much battery power it has left?
+
+If so, your iPhone is suffering from a bug that Apple says it's trying to fix.
+
+The iPhone 6S and 6S Plus have a strange quirk, in which the level on the battery power indicator freezes after people change time zones or manually change the time. So your iPhone battery icon on the top right of your screen might show 50%, even when it's about to die.
+
+To fix the problem, Apple suggests iPhone owners restart their phones, then go to Settings > General > Date & Time and make sure that "Set Automatically" is turned on.
+
+If the problem persists, Apple says customers should contact Apple Support.
+
+"Apple is aware of this issue and is investigating the cause and a solution," the company said on its support page.
+
+Complaints about the battery issue date back to the iPhone 6S' launch. But Apple's (AAPL, Tech30) solution, posted last week, is the first time that the company acknowledged the problem and explained a workaround for affected customers.

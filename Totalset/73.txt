@@ -1,0 +1,27 @@
+
+
+The gadget world is slowly adopting a new power cord standard called USB Type-C. They're small, multipurpose, universal, reversible and might fry whatever gadget you plug them into.
+
+The advantage of the new standard is that USB-C isn't owned by any one company. That means anyone can make them for cheap. The disadvantage: They might wreak havoc.
+
+Cheap power cords are nothing new. You can get cords that meet the old micro-USB standard for smartphones for a couple bucks on Amazon (AMZN, Tech30).
+
+But the new USB-C cords are capable of supplying way more power to a gadget than micro-USB. If you charge your smartphone by plugging your USB-C cord into your laptop, a faulty cord could drain far more power from your laptop than your computer is designed to supply, destroying it -- and your smartphone -- in an instant.
+
+The cords are supposed to recognize what kind of device they're sucking power from. If the USB-C cord senses it's plugged into a wall socket, it should crank up the juice. If it's plugged into a laptop, it should sip power.
+
+That's not what happened to Google (GOOGL, Tech30) engineer Benson Leung. While testing Surjtech's 3M USB-C cord, his $1,500 laptop turned into a very expensive piece of toast. The cord had been wired incorrectly,
+
+Related: This is the new USB connector - and it's reversible!
+
+Leung took it upon himself to review USB-C cords on Amazon to help prevent faulty cords from ruining someone else's day.
+
+"I have gotten fed up with the early cables from 3rd party vendors that so blatantly flout the specification and I want to take them to task," Leung wrote on his Google+ page. "You may not just get weird behavior from your devices with these bad cables... What some these vendors are doing is downright dangerous."
+
+Buying more expensive cables is generally a good idea, based on Leung's research. But an expensive cord doesn't necessarily mean that your gadgets will be safe. And blindly spending extra money on a power cord a pretty dopey way to ensure that your laptop and phone aren't going to be destroyed.
+
+The good news is that the USB-C standards-setting group, the USB Implementers Forum, is issuing a seal of approval for safe USB-C cords. Since those logos don't show up anywhere on Amazon's website, your safest bet might be buying cords at a physical store, such as Staples (SPLS) or Best Buy (BBY), where you can see the logo on the box.
+
+And if you're an iPhone owner, you're safe for now. Lightning cords are certified by Apple (AAPL, Tech30) (that's why they're so expensive), and Apple hasn't yet adopted the USB-C standard for its iPhones.
+
+Safe powering!

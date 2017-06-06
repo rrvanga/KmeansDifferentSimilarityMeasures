@@ -1,0 +1,37 @@
+AT&T has finally made a splashy 5G announcement of its own.
+
+Facing pressure from an increasingly competitive wireless market, AT&T opened up about its 5G plans: It's aiming to field-test its 5G network in Austin, Texas, before the end of this year.
+
+That's puts AT&T on pace with its biggest rival.
+
+Verizon (VZ, Tech30) surprised the telecom world last year by saying it planned to start rolling out 5G by 2017 -- years earlier than industry experts had expected. AT&T initially resisted a me-too approach, declaring its rival's announcement as premature. The standards for what constitutes 5G won't even be set until 2018, the company noted.
+
+But AT&T says it's ready to start sharing its 5G roadmap. It's working with Ericsson and Intel, and it will begin testing 5G in a lab this spring before testing it outdoors later in 2016.
+
+AT&T (T, Tech30) expects that its 5G network will deliver speeds between 10 and 100 times faster than 4G. AT&T says that its new 5G network will also have significantly less lag between tapping a button and getting the network to play a video, download a song or search for a local restaurant.
+
+With a network that fast and responsive, AT&T says that 5G will open the door to new wireless possibilities.
+
+"New experiences like virtual reality, self-driving cars, robotics, smart cities and more are about to test networks like never before," said John Donovan, AT&T's chief strategy officer, in a statement. "5G will help make them a reality."
+
+Related: What a world with 5G will look like
+
+So if 5G is really going to be all that, why was AT&T resistant at first?
+
+Because it really is premature to start making announcements about 5G. The true benefits of 5G won't really start appearing until 2020 for most of us, according to multiple people on a 5G panel held by the CTIA wireless association in Washington last week.
+
+And without standards to base your tests on, AT&T could end up like Sprint (S) did several years ago -- betting way too early on a 4G technology that no one else adopted.
+
+The announcement of AT&T's roadmap doesn't change much. Even before its unveiling, AT&T had been heavily involved in exploring 5G solutions, according to Bill Smith, president of AT&T's network operations, in an interview held in December.
+
+"Unfortunately, every time there's a new network technology announced, there's always a tremendous amount of hype," Smith said, referring to Verizon's 5G announcement. "When I first saw it, I said, 'Oh no, here we go again.'"
+
+Related: When is 5G coming? And how fast will it be?
+
+But analysts and investors were getting antsy, as Verizon clearly laid out its plans last year, and Nokia (NOK) began discussing its 5G roadmap last week.
+
+That's why AT&T carefully worded its 5G announcement, saying it is conducting 5G trials to "be able to pivot ... once 5G technology standards are set."
+
+There is a lot left to figure out about 5G. Will it be affordable? What will it do to devices' battery life?
+
+Meanwhile, there's still a lot of life left in 4G. Despite booming growth in traffic -- particularly from video -- AT&T maintains that it has plenty of bandwidth left to support its wireless customers.

@@ -1,0 +1,15 @@
+A Los Angeles hospital just paid a ransom equivalent to around $17,000 in bitcoins to get its computer systems back up and running.
+
+Hollywood Presbyterian Medical Center staff noticed issues accessing its computer network on Feb. 5. Malware had locked access to certain computer systems and prevented communicating electronically, the hospital said in a statement.
+
+"The quickest and most efficient way to restore our systems and administrative functions was to pay the ransom and obtain the decryption key," said Allen Stefanek, president of Hollywood Presbyterian Medical Center, in a statement. "In the best interest of restoring normal operations, we did this."
+
+The price to regain access was 40 bitcoins, equivalent to around $17,000.
+
+Related: What is Bitcoin?
+
+Stefanek said the electronic medical records system was restored Monday. He said the hospital had contacted law enforcement and was working with a team of experts to better understand the attack.
+
+The FBI said it is investigating the incident, but declined to give specific details.
+
+- Dottie Evans contributed to this report
